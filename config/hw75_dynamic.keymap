@@ -21,7 +21,7 @@
 		};
 
 		layer_1 {
-			label = "进度";
+			label = "<->";
 			bindings = <&trans &trans>;
 			sensor-bindings = <&inc_dec_kp LEFT RIGHT>;
 		};
